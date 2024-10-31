@@ -1,1 +1,1 @@
-export const GITHUB = 'https://github.com/zyronon/bbword'
+export const GITHUB = 'https://github.com/LeeDebug/typing-word'
