@@ -15,7 +15,7 @@
     "test": "",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "i18n:write": "gulp i18nwrite",
-    "server-dist": "vite build && http-server dist -a 0.0.0.0 -p 3003"
+    "server-dist": "vite build && http-server dist -a 0.0.0.0 -p 3004"
   },
   "dependencies": {
     "@opentranslate/baidu": "1.4.2",
